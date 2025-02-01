@@ -1,3 +1,3 @@
 li = ["Delmas", "Clariot", "Celino"]
-for i in li:
-    print(i)
+for i in range(len(li)):
+    print(li[i])
